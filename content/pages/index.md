@@ -123,7 +123,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: UAE Business License
       color: text-dark
       styles:
         self:
