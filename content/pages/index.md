@@ -16,7 +16,7 @@ sections:
     actions:
       - label: About us
         altText: ''
-        url: /
+        url: https://goglobalcorp.co/about-us/
         showIcon: false
         icon: arrowRight
         iconPosition: right
