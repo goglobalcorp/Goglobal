@@ -176,14 +176,7 @@ sections:
       to your needs. Our experienced consultants handle every detail, ensuring a
       seamless process that allows you to live, work, and secure your future in
       the Emirates with confidence
-    actions:
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    actions: []
     media:
       url: /images/GO Global Slide 08 01 2026.jpg
       altText: Dope design preview
