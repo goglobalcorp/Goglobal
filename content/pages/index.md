@@ -267,5 +267,8 @@ seo:
   type: Seo
   metaTags:
     - type: MetaTag
+      content: >-
+        <meta name="google-site-verification"
+        content="oka4eSupL9_K6xf8586SVXfAy1RnuYc8ZipNqP9wARM" />
 type: PageLayout
 ---
