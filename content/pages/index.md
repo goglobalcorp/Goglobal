@@ -107,7 +107,7 @@ sections:
       retirement. Our team provides end-to-end visa services and personalized
       guidance, helping you settle in the Emirates with ease and peace of mind.
     badge:
-      label: Key Benefits
+      label: Key expertise
       color: text-primary
       styles:
         self:
