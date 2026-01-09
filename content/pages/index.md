@@ -54,7 +54,7 @@ sections:
           - pr-16
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/meydon.webp
         altText: Empathy logo
         type: ImageBlock
       - url: /images/vise-logo.svg
