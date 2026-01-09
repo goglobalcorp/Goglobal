@@ -168,7 +168,7 @@ sections:
       text: Visa Services
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Individuals, Families
     text: >
       No matter if you are an investor, entrepreneur, skilled professional,
       freelancer, or retiree, Go Global offers complete [UAE residency visa
