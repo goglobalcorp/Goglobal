@@ -129,7 +129,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: Dubai, Sharjah, Abu Dhabi
     text: >
       Get hassle-free business setup services in UAE with Go Global Corp
       support. Set up your UAE business in Freezone. Fast, low-cost, and 100%
