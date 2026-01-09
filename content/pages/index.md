@@ -263,7 +263,7 @@ sections:
 seo:
   metaTitle: Unlock UAE Opportunities with Smart Investments in UAE
   metaDescription: from smart investments to effortless business setup in dubai, uae
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Real Estate Investment UAE.jpg
   type: Seo
 type: PageLayout
 ---
