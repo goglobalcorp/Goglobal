@@ -130,11 +130,11 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Get hassle-free business setup services in UAE with Go Global Corp
+      support. Set up your UAE business in Freezone. Fast, low-cost, and 100%
+      ownership. Easy Company Formation. Corporate bank account assistance, PRO
+      and document clearance services, Office leasing and virtual office setup
     actions: []
     media:
       title: Title of the video
