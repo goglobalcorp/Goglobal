@@ -177,12 +177,6 @@ sections:
       seamless process that allows you to live, work, and secure your future in
       the Emirates with confidence
     actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
       - label: See Tutorials
         url: /
         showIcon: true
