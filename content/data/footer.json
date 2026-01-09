@@ -50,7 +50,7 @@
             },
             {
                 "label": "Blog",
-                "url": "/blog",
+                "url": "https://goglobalcorp.co/blog/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
