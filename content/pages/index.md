@@ -101,11 +101,11 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      At Go Global, we make UAE residency simple for everyone—whether you’re
+      building a business, advancing your career, freelancing, or enjoying
+      retirement. Our team provides end-to-end visa services and personalized
+      guidance, helping you settle in the Emirates with ease and peace of mind.
     badge:
       label: Key Benefits
       color: text-primary
