@@ -262,7 +262,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: Unlock UAE Opportunities with Smart Investments in UAE
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: from smart investments to effortless business setup in dubai, uae
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
