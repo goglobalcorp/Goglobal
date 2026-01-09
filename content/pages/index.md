@@ -60,7 +60,7 @@ sections:
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/wellster-logo.svg
+      - url: /images/spc-free-zone.webp
         altText: Wellster logo
         type: ImageBlock
       - url: /images/telus-logo.svg
