@@ -170,8 +170,12 @@ sections:
       type: TitleBlock
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      No matter if you are an investor, entrepreneur, skilled professional,
+      freelancer, or retiree, Go Global offers complete [UAE residency visa
+      solutions ](https://goglobalcorp.co/uae-residency-visa-services/)tailored
+      to your needs. Our experienced consultants handle every detail, ensuring a
+      seamless process that allows you to live, work, and secure your future in
+      the Emirates with confidence
     actions:
       - label: Get started
         url: /
