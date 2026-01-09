@@ -14,7 +14,7 @@ sections:
       expertise you need to achieve true global mobility and establish a lasting
       presence in UAE.
     actions:
-      - label: Get started
+      - label: About us
         altText: ''
         url: /
         showIcon: false
