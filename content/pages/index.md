@@ -265,5 +265,7 @@ seo:
   metaDescription: from smart investments to effortless business setup in dubai, uae
   socialImage: /images/Real Estate Investment UAE.jpg
   type: Seo
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
