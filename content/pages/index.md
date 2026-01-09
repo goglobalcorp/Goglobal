@@ -7,7 +7,7 @@ sections:
       text: Unlock UAE opportunities with smart investments
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Residency Visa Services
     text: >
       From smart investments to effortless [business setup in
       Dubai](https://goglobalcorp.co/business-setup/), we provide the tools and
