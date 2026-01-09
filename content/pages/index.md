@@ -187,7 +187,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /images/GO Global Slide 08 01 2026.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
