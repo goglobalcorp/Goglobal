@@ -15,7 +15,7 @@ sections:
       presence in UAE.
     actions:
       - label: About us
-        altText: ''
+        altText: About go global uae
         url: https://goglobalcorp.co/about-us/
         showIcon: false
         icon: arrowRight
