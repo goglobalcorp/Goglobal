@@ -100,7 +100,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: Real Estate Investments | Family Visa Services | Business Registration
     text: >
       At Go Global, we make UAE residency simple for everyone—whether you’re
       building a business, advancing your career, freelancing, or enjoying
